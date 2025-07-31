@@ -5,5 +5,7 @@ object Routes {
     var home_page = "home_page"
     var login_page = "login_page"
     var profile_page = "profile_page"
+
+    var wallpaper_page = "wallpaper_page"
     var upload_page = "upload_page"
 }
